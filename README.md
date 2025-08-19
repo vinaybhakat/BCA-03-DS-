@@ -20,3 +20,6 @@ Example for array code:
 - Always write your name in comments inside the code.
 - Learn Git basics: git add ., git commit -m "message", git push.
 - Be respectful — this repo is for learning together.
+
+##  This repo is for practice + teamwork.
+Every push you do = more learning for you 
